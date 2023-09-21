@@ -1,3 +1,3 @@
-﻿# ThreeJS_SolarSystem
+﻿# ThreeJS_SolarSystem.
 
 # [Check Deployment Here](https://gaven-solar-system.netlify.app/)
